@@ -8,7 +8,7 @@ Pls commit follow with rules
 
 ```bash
 git commit -m '[HTML ...]' //with HTML
-git commit -m '[WP ...]'
+git commit -m '[WP ...]' //with Wordpress
 ```
 
 ## License
